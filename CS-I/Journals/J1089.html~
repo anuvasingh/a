@@ -1,0 +1,23 @@
+b<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS-I Journal J1089</title>
+  </head>
+
+  <body>
+    <h1>CS-I Journal J1012</title>
+<p>Name: Anuva Singh</p>
+<p>Date: 17-Jan-2023</p>
+
+<p>I recieved assistance from: </h1>
+<p>I assisted: No one</p>
+ 
+<h2>Section 1</h2>
+    <h3> Question 1: Why do you think Hello world is typically the first program taught to students? </h3>
+<p> Printing "Hello, World!" is a very basic program taught to students because it shows how coding works. The user inputs instructions to print statements and they are able to see how code operates correctly. Students with little experience with coding are able to execute the Hello World program with little to no errors as well.
+  <h3>Question 2:How might the Hello World program be different, depending on the programming language it's written in?</h3>
+<p>  Every coding program such as C++, Swift, or Python has different instructions for the Hello World Program. Some languages include the print() and some or use int main() or other combinations to code. Languages vary because each language is suitable for different things. </p>
+
+</body>
+</html>

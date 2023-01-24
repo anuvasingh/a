@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS-I Journal J1016</title>
+  </head>
+
+  <body>
+    <h1>CS-I Journal J1016: Logic Composition</h1>
+    <p>Name: Anuva Singh</p>
+    <p>Date: 7-Oct-2022</p>
+
+    <p>I received assistance from: Goeun Lee (Calla)</p>
+    <p>I assisted: Alexis</p>
+
+    <img src ="https://i.postimg.cc/1RFm7NKn/Screenshot-2022-10-07-9-02-15-PM.png" style="width:100%">
+
+    <h2>What did I learn? What is the "big idea"?</h2>
+    <p>I learned how to create certain logic gates using only wires, Logic Inputs, Logic Outputs, and Two-input NAND Gates.</p>
+
+    <h2>What challenges did I encounter?</h2>
+    <p>I encountered challenges figuring out the combination of nand to create XOR. </p>
+
+    <h2>How could this experience be improved?</h2>
+    <p>Instructor could give example of forming one of the gates.</p>
+
+    <h2>Free Reflection: How has what I've learned affected my thinking?</h2>
+    <p>I now have a visual of each gate with their inputs and outputs.</p>
+
+  </body>
+</html>
+
+<p> Excursion J1016: </p>
+<a href="https://docs.google.com/spreadsheets/d/1h-LhzqmDc7S4SKUbqNT95a2m8ew1MaKNqzvs5aUGIYg/edit?usp=sharing">CHART</a>

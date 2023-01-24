@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Merlin Mission Manager</title>
+  </head>
+
+  <body>
+    <h1>CS-I Journal J1008: Merlin Mission Manager</h1>
+    <p>Name: Anuva Singh</p>
+    <p>Date: 10-Sep-2022</p>
+
+    <p>I received assistance from: Lin Deng</p>
+    <p>I assisted: Calla</p>
+
+    <h2>Section 1</h2>
+    <h3>Question 1: If you're outside the Merlin directory and attempt a  Merlin Mission Manager  command, what is printed for your "Current location"?</h3>
+    <p>The current location is printed as outside of Merlin. 
+
+    <h2>Section 2</h2>
+    <h3>Question 1:If you're inside the Merlin directory and attempt a  Merlin Mission Manager  command, what is printed for your "Current location"?</h3>
+    <p> It says I am inside of the Merlin  directory. </p>
+    <h3>Question 2: Based on the output of the above command, what information does the  Merlin Mission Manager  provide to you.</h3>
+    <p>It says the mission is eligible. It also displays accepted, due, expiration, and completed.</p>
+
+    <h2>Section 3</h2>
+    <h3>Question 1:Look at the directory listing before and after you issued the "merlin prepare" command. What's changed?</h3>
+    <p>Before command, all the missions are listed comma separated like M1008… , M1009 dir was only listed(root directory)
+      After command - entire mission names are listed within quotes ‘M1002(10) 01Bash Basics’ ‘.....’
+    </p>
+    <h3>Question 2: What do you think the purpose of the "prepare" command is? </h3>
+    <p>It prepares the missions and challenges depending upon if it is in mission directory or challenge directory and it states(Type cd M1004 and hit tab → it takes up full dir name → hit enter).
+    </p>
+
+    <h2>Section 4</h2>
+    <h3>Question 1: What changed in this directory after you issued the prepare command?</h3>
+    <p>The challenge files were being prepared and got created which were not present before the prepare command.</p>
+
+    <h3>Question 2: What is the purpose of the prepare command and how does its role differ depending on context?</h3>
+    <p>Purpose is to prepare missions and challenges depending on the context if it is in mission directory and challenge directory.
+    </p>
+
+  </body>
+  </html>
